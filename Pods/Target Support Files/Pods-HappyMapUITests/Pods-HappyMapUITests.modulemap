@@ -1,0 +1,6 @@
+framework module Pods_HappyMapUITests {
+  umbrella header "Pods-HappyMapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
