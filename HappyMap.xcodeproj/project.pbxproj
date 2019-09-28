@@ -19,6 +19,7 @@
 		9C1B9EDF2335F136006F1C6C /* HappyMapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1B9EDE2335F136006F1C6C /* HappyMapUITests.swift */; };
 		9C67A7BB233615470074C83D /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C67A7BA233615470074C83D /* MasterViewController.swift */; };
 		9C67A7BD233615760074C83D /* DetalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C67A7BC233615750074C83D /* DetalViewController.swift */; };
+		9C774EDD233F0BA8008BC533 /* PositionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C774EDC233F0BA8008BC533 /* PositionCell.swift */; };
 		E2528693CE503EA346C7BD64 /* Pods_HappyMapTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EFF30075DEBCD219331B50E /* Pods_HappyMapTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +65,7 @@
 		9C1B9EE02335F136006F1C6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C67A7BA233615470074C83D /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 		9C67A7BC233615750074C83D /* DetalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalViewController.swift; sourceTree = "<group>"; };
+		9C774EDC233F0BA8008BC533 /* PositionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionCell.swift; sourceTree = "<group>"; };
 		AB57844AC0A71CBC46B8B56C /* Pods-HappyMap.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HappyMap.debug.xcconfig"; path = "Target Support Files/Pods-HappyMap/Pods-HappyMap.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -152,6 +154,7 @@
 				9C1B9EC52335F135006F1C6C /* Assets.xcassets */,
 				9C1B9EC72335F135006F1C6C /* LaunchScreen.storyboard */,
 				9C1B9ECA2335F135006F1C6C /* Info.plist */,
+				9C774EDC233F0BA8008BC533 /* PositionCell.swift */,
 			);
 			path = HappyMap;
 			sourceTree = "<group>";
@@ -399,6 +402,7 @@
 				9C1B9EC12335F130006F1C6C /* ViewController.swift in Sources */,
 				9C67A7BD233615760074C83D /* DetalViewController.swift in Sources */,
 				9C1B9EBD2335F130006F1C6C /* AppDelegate.swift in Sources */,
+				9C774EDD233F0BA8008BC533 /* PositionCell.swift in Sources */,
 				9C1B9EBF2335F130006F1C6C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

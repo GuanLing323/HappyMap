@@ -9,11 +9,14 @@
 import UIKit
 
 class DetalViewController: UIViewController {
+    
+    var 傳入值 : String = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        self.title = self.傳入值
     }
     
 
